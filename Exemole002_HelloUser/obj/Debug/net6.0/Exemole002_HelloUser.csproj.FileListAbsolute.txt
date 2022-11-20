@@ -1,0 +1,15 @@
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\bin\Debug\net6.0\Exemole002_HelloUser.exe
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\bin\Debug\net6.0\Exemole002_HelloUser.deps.json
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\bin\Debug\net6.0\Exemole002_HelloUser.runtimeconfig.json
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\bin\Debug\net6.0\Exemole002_HelloUser.dll
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\bin\Debug\net6.0\Exemole002_HelloUser.pdb
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.csproj.AssemblyReference.cache
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.AssemblyInfoInputs.cache
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.AssemblyInfo.cs
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.csproj.CoreCompileInputs.cache
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.dll
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\refint\Exemole002_HelloUser.dll
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.pdb
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\Exemole002_HelloUser.genruntimeconfig.cache
+D:\для Git\Знакомство с языками программирования\Examples(примеры)\Exemole002_HelloUser\obj\Debug\net6.0\ref\Exemole002_HelloUser.dll
