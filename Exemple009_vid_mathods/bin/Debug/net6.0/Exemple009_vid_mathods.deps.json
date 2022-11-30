@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exemple009_vid_mathods/1.0.0": {
+        "runtime": {
+          "Exemple009_vid_mathods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemple009_vid_mathods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
