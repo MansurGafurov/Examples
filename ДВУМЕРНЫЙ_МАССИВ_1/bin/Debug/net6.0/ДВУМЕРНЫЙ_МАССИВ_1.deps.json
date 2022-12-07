@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ДВУМЕРНЫЙ_МАССИВ_1/1.0.0": {
+        "runtime": {
+          "ДВУМЕРНЫЙ_МАССИВ_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДВУМЕРНЫЙ_МАССИВ_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
